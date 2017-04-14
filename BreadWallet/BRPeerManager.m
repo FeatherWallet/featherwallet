@@ -90,7 +90,7 @@ static const struct { uint32_t height; const char *hash; uint32_t timestamp; uin
 };
 
 static const char *dns_seeds[] = {
-    "fsight.chain.tips.", "dnsseed.feathercoin.com."
+    "fsight.chain.tips."
 };
 
 #endif
